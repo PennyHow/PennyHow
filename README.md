@@ -1,4 +1,4 @@
-### My name is Dr. Penelope How (she/her).
+### My name is Dr. Penelope How (she/her 🏳️‍🌈) 
 
 I am a **data scientist at the Geological Survey of Greenland and Denmark (GEUS)**, focusing on monitoring the Greenland Ice Sheet and creating workflows for big data processing. 
 
