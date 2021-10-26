@@ -1,6 +1,4 @@
-### Hi there, my name is Penny. This is a branch copy.
-
-My name is Dr. Penelope How (she/her 🏳️‍🌈) 
+### My name is Dr. Penelope How (she/her 🏳️‍🌈) 
 
 I am a **data scientist at the Geological Survey of Denmark and Greenland (GEUS)**, focusing on monitoring the Greenland Ice Sheet and creating workflows for big data processing. 
 
