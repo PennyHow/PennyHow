@@ -19,7 +19,7 @@ I have a PhD in glaciology from the University of Edinburgh and the University C
 
 ---
 
-<img align="left" alt="PennyHow's Github stats" src="https://github-readme-stats.vercel.app/api?username=PennyHow&show_icons=true&hide_border=true" />
+![PennyHow's GitHub stats](https://github-readme-stats.vercel.app/api?username=PennyHow&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
