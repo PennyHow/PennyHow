@@ -6,8 +6,13 @@ I have a PhD in glaciology from the University of Edinburgh and the University C
 
 Coding interests: *big data processing, terrestrial time-lapse photogrammetry, remote sensing and image handling, web scraping*
 
-For more…
-- Website: [pennyhow.wordpress.com](https://pennyhow.wordpress.com/)
-- Twitter: [@DrPennyHow](https://twitter.com/DrPennyHow)
-- [Google Scholar](https://scholar.google.com/citations?user=946wHTUAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Penelope-How)
+### For more…
+ [<img align="left" alt="pennyhow.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][wensite]
+ [<img align="left" alt="DrPennyHow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ [<img align="left" alt="Penelope How" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][scholar]
+ [<img align="left" alt="Penelope How" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />][researchgate]
+
+[website] https://pennyhow.github.io
+[twitter] https://twitter.com/DrPennyHow
+[scholar] https://scholar.google.com/citations?user=946wHTUAAAAJ&hl=en
+[researchgate] https://www.researchgate.net/profile/Penelope-How
