@@ -5,6 +5,12 @@ I am a **data scientist at the Geological Survey of Denmark and Greenland (GEUS)
 I have a PhD in glaciology from the University of Edinburgh and the University Centre in Svalbard (UNIS) in 2018, where I examined the dynamics of tidewater glaciers in Svalbard, primarily using time-lapse cameras and photogrammetry techniques. Within this time, I learnt to code in Python and developed an object-oriented toolbox called [PyTrx](https://github.com/PennyHow/PyTrx) for deriving measurements from terrestrial glacial imagery. I continued to develop my expertise in programming during my post-doctoral researcher position at the University of York, and as a remote sensing specialist at Asiaq Greenland Survey in Nuuk, Greenland.
 
 **Coding interests**: *big data processing, terrestrial time-lapse photogrammetry, remote sensing and image handling, web scraping*
+<br><br>
+
+### Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br><br>
 
 ### For more…
  [<img align="left" alt="pennyhow.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
