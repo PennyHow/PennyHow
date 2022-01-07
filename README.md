@@ -10,11 +10,11 @@ I have a PhD in glaciology from the University of Edinburgh and the University C
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Investigating Greenland’s ice marginal lakes under a changing climate &lpar;GrIML&rpar;](https://pennyhow.github.io/blog/investigating-griml/)
 - [Introducing Schengulator](https://pennyhow.github.io/blog/introducing-schengulator/)
 - [Making Readthedocs for a Python package](https://pennyhow.github.io/blog/making-readthedocs/)
 - [Greenland-wide inventory of ice marginal lakes published in Scientific Reports](https://pennyhow.github.io/blog/greenland-wide-inventory-of-ice-marginal-lakes-published-in-scientific-reports/)
 - [Six months working in Greenland](https://pennyhow.github.io/blog/six-months-working-in-greenland/)
-- [PyTrx published in Frontiers in Earth Science](https://pennyhow.github.io/blog/pytrx-published-in-frontiers-in-earth-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
