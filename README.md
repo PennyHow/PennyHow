@@ -10,11 +10,11 @@ I have a PhD in glaciology from the University of Edinburgh and the University C
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NUK station fieldwork, software paper accepted and restarting dormant projects](https://pennyhow.github.io/blog/september-2023/)
 - [GC-Net and PROMICE weather station 2022 fieldtrip to NE Greenland](https://pennyhow.github.io/blog/gcnet-fieldwork-2022/)
 - [Investigating Greenland’s ice marginal lakes under a changing climate &lpar;GrIML&rpar;](https://pennyhow.github.io/blog/investigating-griml/)
 - [Introducing Schengulator](https://pennyhow.github.io/blog/introducing-schengulator/)
 - [Making Readthedocs for a Python package](https://pennyhow.github.io/blog/making-readthedocs/)
-- [Greenland-wide inventory of ice marginal lakes published in Scientific Reports](https://pennyhow.github.io/blog/greenland-wide-inventory-of-ice-marginal-lakes-published-in-scientific-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
