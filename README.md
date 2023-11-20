@@ -12,9 +12,9 @@ I have a PhD in glaciology from the University of Edinburgh and the University C
 <!-- BLOG-POST-LIST:START -->
 - [pypromice available through conda](https://pennyhow.github.io/blog/pypromice-on-conda/)
 - [NUK station fieldwork, software paper accepted and restarting dormant projects](https://pennyhow.github.io/blog/back-to-work/)
-- [NUK station fieldwork, software paper accepted and restarting dormant projects](https://pennyhow.github.io/blog/september-2023/)
 - [GC-Net and PROMICE weather station 2022 fieldtrip to NE Greenland](https://pennyhow.github.io/blog/gcnet-fieldwork-2022/)
 - [Investigating Greenland’s ice marginal lakes under a changing climate &lpar;GrIML&rpar;](https://pennyhow.github.io/blog/investigating-griml/)
+- [Introducing Schengulator](https://pennyhow.github.io/blog/introducing-schengulator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
