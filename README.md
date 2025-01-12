@@ -8,11 +8,11 @@ I am a **data scientist**, focusing on monitoring the Greenland Ice Sheet and cr
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Work Diary: Week 2](https://pennyhow.github.io/work-diary/week-2/)
 - [Greenland Science Week 2023](https://pennyhow.github.io/blog/greenland-science-week-2023/)
 - [pypromice available through conda](https://pennyhow.github.io/blog/pypromice-on-conda/)
 - [NUK station fieldwork, software paper accepted and restarting dormant projects](https://pennyhow.github.io/blog/back-to-work/)
 - [GC-Net and PROMICE weather station 2022 fieldtrip to NE Greenland](https://pennyhow.github.io/blog/gcnet-fieldwork-2022/)
-- [Investigating Greenland’s ice marginal lakes under a changing climate &lpar;GrIML&rpar;](https://pennyhow.github.io/blog/investigating-griml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
