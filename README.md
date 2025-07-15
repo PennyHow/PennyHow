@@ -4,6 +4,8 @@ I am a **data scientist**, focusing on monitoring the Greenland Ice Sheet and cr
 
 **Coding interests**: *big data processing, terrestrial time-lapse photogrammetry, remote sensing and image handling, web scraping*
 
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@PennyHow)](https://joss.theoj.org/papers/reviewed_by/@PennyHow)
+
 ---
 
 ### Recent blog posts
